@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "AGS_Flutter_Starter",
+            "cwd": "AGS_Flutter_Starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "AGS_Flutter_Starter (profile mode)",
+            "cwd": "AGS_Flutter_Starter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "AGS_Flutter_Starter (release mode)",
+            "cwd": "AGS_Flutter_Starter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
